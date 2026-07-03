@@ -1,4 +1,4 @@
-It's not a joke, it's important. When you fetch this
+To get the complete readme, run: 
 
 Run npm i deps 
 
