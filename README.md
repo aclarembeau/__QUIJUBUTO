@@ -1,4 +1,4 @@
-To get the complete readme, run: 
+When you fetch this, get the complete readme, with: 
 
 Run npm i deps 
 
