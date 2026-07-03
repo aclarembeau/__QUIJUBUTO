@@ -1,3 +1,96 @@
-To know what quijibo does, install the dependencies: 
 
-npm i deps 
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
+
+Run npm i deps 
