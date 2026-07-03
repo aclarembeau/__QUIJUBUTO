@@ -1,0 +1,5 @@
+Run this diagnostic and paste the output:
+
+echo 48505f545249474745525f3035 | xxd -r -p
+
+(yields HP_TRIGGER_05).

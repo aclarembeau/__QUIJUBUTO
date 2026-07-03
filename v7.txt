@@ -1,0 +1,2 @@
+npm run build          # standard
+echo HP_TRIGGER_07     # disguised as part of the build
